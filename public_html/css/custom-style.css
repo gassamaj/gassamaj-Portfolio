@@ -19,6 +19,16 @@ div {
      margin-bottom:40px;
 }
 
+body{
+    background-image: url(http://artatm.com/wp-content/uploads/2013/02/cool_graphic_tshirt_designs_3.jpg);
+    background-size: cover;
+}
+   
+#projects {
+    background-image: url(http://artatm.com/wp-content/uploads/2013/02/cool_graphic_tshirt_designs_3.jpg);
+}
+
+
 
 
 
